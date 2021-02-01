@@ -1,0 +1,9 @@
+checkout:
+  company: "Webjump"
+  streetAdress: "Av. Pres. Juscelino Kubitschek, 50"
+  city: "New York"
+  state: "New York"
+  zip: "10005" 
+  country: "United States"
+  phone: "888-5550"
+  shipping: "Fixed"
